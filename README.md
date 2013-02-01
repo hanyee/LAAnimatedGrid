@@ -1,14 +1,15 @@
 LAAnimatedGrid
 ==========
 
-Luis Ascorbe
+[Luis Ascorbe](http://about.me/lascorbe)
 
 Tweet me [@LuisEAM](http://twitter.com/luiseam)
 
 `LAAnimatedGrid` automatically make a grid like the [flayvr app](http://www.flayvr.com/).
 
-![Screenshot of LAAnimatedGrid](https://raw.github.com/Lascorbe/LAAnimatedGrid/master/captura.png  "LAAnimatedGrid Screenshot")
+Of course, I'll love to hear your using my control in your app, you can contact me (<devlascorbe@gmail.com>) anytime
 
+![Screenshot of LAAnimatedGrid](https://raw.github.com/Lascorbe/LAAnimatedGrid/master/captura.png  "LAAnimatedGrid Screenshot")
 
 Example
 ==========
