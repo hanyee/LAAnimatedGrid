@@ -60,7 +60,7 @@ Usage
     [laag setLaagBackGroundColor:[UIColor whiteColor]];
 ```
 
-NOTE: `LAAnimatedGrid` support rotations and the array could be UIImages or NSURLs (to web images).
+NOTE: `LAAnimatedGrid` support rotations and the array could be UIImages or NSURLs (web images).
 
 
 Credits
